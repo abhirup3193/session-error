@@ -1,0 +1,75 @@
+page 1:
+backend validation
+
+zipcode accepting characters
+
+building number accepting characters
+
+
+
+phone number: min =5 and max = 15
+
+
+
+if i select country code +91, it's mandatory to give 10 digits (even if i give one number it is accepting)
+
+
+
+website if any field: ven though it is a optional field if i give correct website also it's showing red color . if we add https:// then only working (url only)
+
+
+
+Page 2:
+
+The fields in 2nd page are accepting numbers& special charecters. I think it's should be text
+
+Page 3:
+
+I choosen no option: others option is optional i guess here. it is giving text box, even if we won't type anyting it is going for next page.
+ 
+wihtout entering any details it's going for another page 
+
+page 5:
+
+Only 3 fields are mandatory in this page if we give that details even without entering others details it's going for next page.
+
+page 6:
+
+connect6.php error
+
+page 8:
+
+others are optional here
+
+Even if i select required services it is showing required field message
+
+some fields are showing red color
+
+page 10:
+
+moving to next page even if we won't enetr the paas service
+
+
+page 15:
+
+what is the from date in maintenance window
+
+
+
+
+ip address pattern:
+
+input type="text" pattern="\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}"
+
+
+
+
+
+
+
+
+
+
+
+
+

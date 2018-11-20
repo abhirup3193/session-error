@@ -1,0 +1,43 @@
+>> req date:  Auto collect ,user input disabled
+
+>> index page: Hover icon div, now showing label (new user, existing user etc)
+
+>> page 5- server details: add remove fields working properly.
+
+
+>> Exp-date min value set as req date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>> Zip code typ number : Set
+>> Country Code added
+
+
+>> Progress bar added
+>> Pregress Bar Hover Added
